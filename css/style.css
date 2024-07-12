@@ -202,7 +202,7 @@
   display: flex;
   position: relative;
   width: 100%;
-  background-image: url("/src/assets/images/hero-bg/Rectangle.png");
+  background-image: url('../assets/images/hero-bg/Rectangle.png');
   background-repeat: no-repeat;
   background-position: center;
   background-color: #c5ead9c7;
@@ -504,12 +504,12 @@
 }
 #container3 .top .top-left {
   background: #fff5e1d9;
-  background-image: url("/src/assets/images/hero-bg/Rectangle.png");
+  background-image: url('../assets/images/hero-bg/Rectangle.png');
   background-size: cover;
 }
 #container3 .top .top-right {
   background-color: #def9ec;
-  background-image: url("/src/assets/images/hero-bg/Rectangle.png");
+  background-image: url('../assets/images/hero-bg/Rectangle.png');
   background-size: cover;
 }
 #container3 .top .top-left .top-left-text span {
@@ -676,7 +676,7 @@
 }
 #container3 .bottom .bottom-poster2 {
   background: #fff5e1d9;
-  background-image: url("/src/assets/images/hero-bg/Rectangle.png");
+  background-image: url('../assets/images/hero-bg/Rectangle.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -993,7 +993,7 @@
 }
 #container5 .shop {
   background-color: #def9ec;
-  background-image: url("/src/assets/images/hero-bg/Rectangle.png");
+  background-image: url('../assets/images/hero-bg/Rectangle.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
