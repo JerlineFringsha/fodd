@@ -234,6 +234,7 @@
   border: none;
   background: transparent;
   padding: 0.5rem;
+   min-width: 180px;
 }
 .heros .btn {
   background-color: #3bb77e;
